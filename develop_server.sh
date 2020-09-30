@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 ##
-# This section should match your Makefile
-##
+# This section should match your Makefile.
+## don't change any stuff unless you are 100% sure
 PY=python
 PELICAN=pelican
 PELICANOPTS=
