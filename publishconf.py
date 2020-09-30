@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-
+#don't change anything unless you are 100% sure.
 # This file is only used if you use `make publish` or
-# explicitly specify it as your config file.
+# explicitly specify it as your configure file.
 
 import os
 import sys
